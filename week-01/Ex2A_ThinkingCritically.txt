@@ -1,0 +1,64 @@
+1. Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+How would the results change if they used another indicator other than the search data?
+2.How would the results change if they directly surveyed people instead of relying on search trends?
+3.How accurate are these results? 
+
+2. Where can you find Google Trends search data? Provide the URL.
+https://trends.google.com/trends/
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food,
+topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and
+change the date range to February 1, 2024 through February 28, 2025.
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+The highest peak is 100 searches, recorded February 28,2025.
+b) What is the lowest dip recorded?
+The lowest dip recorded is 64 searches, recorded November 30, 2024.
+
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search
+term. Click the plus sign to add a search for Hamburger (Food).
+a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip? 
+Highest peak is 100 and the lowest dip is 72.
+b) What happened to the line for Milkshake? What do the high and low look like now?
+The line for milkshake flattened. The high is 37 and the low is 24.  
+
+5. Why did the line for Milkshake change? Hint: Click on the icon next to “Interest
+over time” for more information about how trend results are displayed.
+"Search interest over a specific time period, displayed on a relative scale from 0 to 100, where 100 signifies the peak interest for the time period of the chart. A value of 50 indicates half the popularity of the peak, and 0 suggests insufficient data." 
+The line for milkshake changed because once we added the "Hamburger" the search is relative and in comparison to the "Hamburger" search, it draws less volume. 
+
+6. Add a third term to your search, this time for Breakup (Topic).
+a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger?
+A pattern I see is that "Hamburger" searches started dipping in July 2024 which is also consistent with a dip for "Breakup" searches. This pattern is not consistent however, because the "Hamburger" search kept dipping in August 2024, while the "Breakup" search kept steady values. 
+b) How about between Breakup and Milkshake?
+These searches have a slightly similar trend but I would not say their changes in value are significantly related. 
+
+7. What does all of this suggest about the reliability of the conclusions reached in the
+article?
+These patterns suggest that the methodology of the article is flawed. It confuses overall popularity of foods with breakup specificity, without there being any  clear measures for breakup specificity for these comfort foods.
+
+8. At the upper right of Google Trends, click on the link for “Back to Classic Explore.”
+Notice that this view includes a section for “Compared breakdown by subregion.”
+a) What was the top state by interest for Milkshake? 
+North Carolina
+b) What was the top state by interest for Hamburger?
+South Dakota
+
+9. Use the download icon to download a csv file with these search trend results. Save it
+to your DataAnalytics/week-01 folder as GTrends_milkshake_hamburger_2024.csv 
+
+10. OPTIONAL: Spend a little more time exploring Google Trends results for other
+“breakup foods” listed in the article. Some more food for thought:
+
+a) What are the differences you notice between searching for a term as a “search
+term” versus as a categorical term? What thoughts does this raise in your mind
+about working with Google Trends data?
+Topics like "Milkshake (beverage)" include related searches and give a broader view of interest, while search terms only track the exact words searched. In other words, a topic includes related searches and variations, while a search term only measures the exact words entered. This shows that analysts must choose carefully because different options can produce different results and affect the interpretation of the data. 
+
+a) Try comparing “Hamburger (Food)” to some search terms oriented toward pop
+culture or current events. For instance, you might compare to “football” or
+“olympics.” What do you notice? What do you think other patterns in search
+behavior might represent?
+When comparing Hamburger (Food) to terms like football or olympics, the sports terms show large spikes during major events, while hamburger searches remain relatively steady. This demonstrates that Google Trends data can reveal whether interest is event-driven or consistent over time
