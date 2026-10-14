@@ -1,0 +1,41 @@
+1. Start by reviewing the data.gov home page. What is this?
+This is a government database, where you can find and access publicly available data for free.
+
+2. Go to Most Viewed Datasets. How many datasets are listed?
+There are 20 datasets on the most viewed page. 
+
+3. Find the Topic Category for Human Health. Review the range of data sources
+available for this topic. Why do you think these were tagged with the Human Health
+category?
+The Human Health category includes datasets related to public health, healthcare access, food and nutrition, environmental health, disease prevention, and health outcomes. They are tagged with the Human Health category because they provide information that affects human's wellbeing, healthcare services or factors that influence public health or quality of life. 
+
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you
+navigate to additional datasets from the USDA?
+You can navigate to additional datasets from the USDA by clicking the "Department of Agriculture" under "Food Price Outlook", where it shows the publisher and gives a link to other datasets from the USDA. 
+
+
+6. Try searching for your city, county, and state. What organizations are returned?
+My search was "Manhattan, New York, NY". The organization that returned was "National Oceanic and Atmospheric Administration, Department of Commerce".
+
+7. Search for USDA, and click into the result. Within the USDA datasets, search for food
+composition. Notice that the top three results are all datasets concerning nutrition
+information. Try searching the USDA page for nutrition. How does that affect your
+results? 
+When I searched "food composition" there were 6 datasets matching the filters. When I changed my filter to nutrition, there were 51 datasets matching.
+a) One of the tricky things about working with data is that sometimes the terminology
+used by a data source is not obvious. You may need to dig around and be creative
+to find what you’re looking for.
+
+8. Go back to the results for food composition, and click on FoodData Central. Review
+the catalog page for this data source, then click on the button for Visit Page. Take
+some time to explore the FoodData Central website.
+
+a) Try searching for butter, or any of your favorite foods. What kind of results do you
+get? What happens when you click on a result?
+I searched for "Sugar" and the results included foods and products containing sugar or similar terms. When I clicked on a result, it opened a detailed page showing nutritional information, like calories, nutrients, vitamins and serving sizes. 
+
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What
+kind of data can you find on this page? How big are these files? Where can you find
+more information on the data types available?
+I found downloadable food composition datasets containing nutrient values, food descriptions, sample information, and related documents. 
+The files are available in CSV, JSON etc, and can be quite large files, ranging from several megabytes to hundreds. 
