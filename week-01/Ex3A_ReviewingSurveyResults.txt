@@ -1,0 +1,34 @@
+1. What conclusion can you reach about the responses to this question?
+My conclusion is that majority of students have a second monitor, weather that is another laptop or a tablet. 8 of the students who took the survey don't have a second monitor. I also noticed that all the students will keep a proactive mindset during the course, by joining class early and coming prepared with reviewed notes and proactive mindsets. As per the notetaking question, the class seems divided 50/50 with half taking notes with pen & paper and the other half in their computer (2 students will use both ways). 
+For the last part of the survey, the data was not as easy to categorize. All students had different questions/concerns regarding this course. 2 people did ask about tutoring, and 4 people did not respond/didn't have questions.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+The default visualizations for the open-ended questions are not helpful for identifying trends because answers are often long and wording between students is varied. This issue can be improved by selecting key phrases from responses such as "drinking coffee," "plugging in devices", and "reviewing notes" and creating a bar chart to manually plug in how often a response includes the phrase or similar phrasing to better identify which kind of response leads. 
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+This dataset did not contain any "Other" option. 
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+All the students word their answers differently. This can be challenging because some will give detailed answers, some will give vague answers and some will opt for the N/A option. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+In a future survey, I would consider giving students a set of answers to choose from, so I can categorize their answers more efficiently. 
+
+6. Is there anything that surprised you about the survey responses?
+I was surprised about how many people have a second screen, as I personally don't have one but will most likely purchase it because going back and forth between tabs in my laptop is not very efficient. 
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+Everyone has their personal morning routine so I wouldn't say I will implement any new ideas but I also curious if tutoring will be available outside our regular Zoom meetings.  
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+If I was the instructor, what I would take from this survey is that students are excited and very curious about this course. 
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+Pros of making this survey anonymous is that students feel more comfortable answering truthfully and it removes the bias you could have if you know what the students are answering. However, this can also be a con. If you know what questions your students have, you can address them directly. 
