@@ -5,7 +5,7 @@ customer_dob = '12/14/2002' # Could need separate variables for month, day and y
 drivers_license = '55896475'
 auto_policy = '689745855'
 
-my_name: 'Ardita Mrapshtija'
+my_name = 'Ardita Mrapshtija'
 birth_city = 'Shkoder'
 birth_country = 'Albania'
 
